@@ -1,2 +1,2 @@
 
-##Datascience Course
+##DatascienceCourse
